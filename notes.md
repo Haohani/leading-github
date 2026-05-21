@@ -1,1 +1,3 @@
-第一行：这是 feature-A 的修改
+=
+第一行：这是 feature-B 的修改
+>>>>>>> feature-B
